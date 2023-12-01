@@ -15,7 +15,7 @@
 
  ### About me
  - I'm currently learning **C#, .Net**
- - I became a mother at 20, and I never stop **growing**.
+ - I watch movies in my free time).
  - I am learning English, speak(Russian,Kyrgyz) languages.
  - i like reading book
 
