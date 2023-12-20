@@ -15,9 +15,8 @@
 
  ### About me
  - I'm currently learning **C#, .Net**
- - I watch movies in my free time).
+   ---------------------------------
  - I am learning English language.
- - i like reading book
 
 **Languages and tools**
 <div>
