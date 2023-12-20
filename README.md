@@ -15,7 +15,7 @@
 
  ### About me
  - I'm currently learning **C#, .Net**
-   ---------------------------------
+
  - I am learning English language.
 
 **Languages and tools**
