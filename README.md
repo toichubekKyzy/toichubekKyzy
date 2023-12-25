@@ -18,5 +18,5 @@
 
  - I am learning English language.
 
-**Languages and tools**
+
 <div>
